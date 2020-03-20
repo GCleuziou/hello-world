@@ -6,4 +6,6 @@ Je veux voir comment je peux réaliser un nouveau commit avec atom
 Encore une modif!
 Mon collaborateur fait une modif
 Et encore une modif!
+Encore!!!
+
 
